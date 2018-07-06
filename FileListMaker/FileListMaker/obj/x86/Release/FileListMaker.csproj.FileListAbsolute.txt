@@ -1,0 +1,11 @@
+D:\WorkSpace\FileListMaker\FileListMaker\bin\Release\FileListMaker.exe
+D:\WorkSpace\FileListMaker\FileListMaker\bin\Release\FileListMaker.pdb
+D:\WorkSpace\FileListMaker\FileListMaker\obj\x86\Release\MainWindow.baml
+D:\WorkSpace\FileListMaker\FileListMaker\obj\x86\Release\MainWindow.g.cs
+D:\WorkSpace\FileListMaker\FileListMaker\obj\x86\Release\App.g.cs
+D:\WorkSpace\FileListMaker\FileListMaker\obj\x86\Release\FileListMaker_MarkupCompile.cache
+D:\WorkSpace\FileListMaker\FileListMaker\obj\x86\Release\FileListMaker.g.resources
+D:\WorkSpace\FileListMaker\FileListMaker\obj\x86\Release\FileListMaker.Properties.Resources.resources
+D:\WorkSpace\FileListMaker\FileListMaker\obj\x86\Release\FileListMaker.csproj.GenerateResource.Cache
+D:\WorkSpace\FileListMaker\FileListMaker\obj\x86\Release\FileListMaker.exe
+D:\WorkSpace\FileListMaker\FileListMaker\obj\x86\Release\FileListMaker.pdb
