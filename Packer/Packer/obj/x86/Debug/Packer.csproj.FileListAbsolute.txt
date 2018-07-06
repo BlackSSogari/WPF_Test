@@ -1,0 +1,11 @@
+D:\WorkSpace\Packer\Packer\bin\Debug\Packer.exe
+D:\WorkSpace\Packer\Packer\bin\Debug\Packer.pdb
+D:\WorkSpace\Packer\Packer\obj\x86\Debug\MainWindow.baml
+D:\WorkSpace\Packer\Packer\obj\x86\Debug\MainWindow.g.cs
+D:\WorkSpace\Packer\Packer\obj\x86\Debug\App.g.cs
+D:\WorkSpace\Packer\Packer\obj\x86\Debug\Packer_MarkupCompile.cache
+D:\WorkSpace\Packer\Packer\obj\x86\Debug\Packer.g.resources
+D:\WorkSpace\Packer\Packer\obj\x86\Debug\Packer.Properties.Resources.resources
+D:\WorkSpace\Packer\Packer\obj\x86\Debug\Packer.csproj.GenerateResource.Cache
+D:\WorkSpace\Packer\Packer\obj\x86\Debug\Packer.exe
+D:\WorkSpace\Packer\Packer\obj\x86\Debug\Packer.pdb
